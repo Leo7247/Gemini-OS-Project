@@ -2,7 +2,7 @@
 This is my first Mini OS, is there anyone can give me suggestions for the OS name?  
 This is a open source mini OS, it got Desktop, Explorer, Start, Notepad etc.
 # Install Guide
-If you have a **Windows Computer with intel/amd core (Not ARM)** : 
+If you have a **Windows Computer with Intel/Amd core (Not ARM)** : 
 1. Download The QEMU Installer (if not already installed) From https://qemu.weilnetz.de/w64/qemu-w64-setup-20251224.exe.
 2. Downlaod The GeminiOS.bin From Release.
 3. Move your .bin file to your documents folder.
@@ -41,6 +41,7 @@ sudo apt install qemu-system-x86``` to install QEMU.
 3. If you found some bugs, welcome to tell me.
 4. You need to click ```Tab``` when you want to swich to password on login.
 5. This OS can't connect to the network
+6. This is OS requires a Intel x32 architecture machine.
 
 # Screenshots
 <img width="722" height="432" alt="Screenshot 2026-02-19 at 5 57 07 PM" src="https://github.com/user-attachments/assets/3f3c144c-1359-49c3-8c71-8102c4d3331b" />
